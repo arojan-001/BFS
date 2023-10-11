@@ -1,0 +1,15 @@
+C:\Users\araik\source\repos\BFS\bin\Debug\net6.0\BFS.exe
+C:\Users\araik\source\repos\BFS\bin\Debug\net6.0\BFS.deps.json
+C:\Users\araik\source\repos\BFS\bin\Debug\net6.0\BFS.runtimeconfig.json
+C:\Users\araik\source\repos\BFS\bin\Debug\net6.0\BFS.dll
+C:\Users\araik\source\repos\BFS\bin\Debug\net6.0\BFS.pdb
+C:\Users\araik\source\repos\BFS\obj\Debug\net6.0\BFS.csproj.AssemblyReference.cache
+C:\Users\araik\source\repos\BFS\obj\Debug\net6.0\BFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\araik\source\repos\BFS\obj\Debug\net6.0\BFS.AssemblyInfoInputs.cache
+C:\Users\araik\source\repos\BFS\obj\Debug\net6.0\BFS.AssemblyInfo.cs
+C:\Users\araik\source\repos\BFS\obj\Debug\net6.0\BFS.csproj.CoreCompileInputs.cache
+C:\Users\araik\source\repos\BFS\obj\Debug\net6.0\BFS.dll
+C:\Users\araik\source\repos\BFS\obj\Debug\net6.0\refint\BFS.dll
+C:\Users\araik\source\repos\BFS\obj\Debug\net6.0\BFS.pdb
+C:\Users\araik\source\repos\BFS\obj\Debug\net6.0\BFS.genruntimeconfig.cache
+C:\Users\araik\source\repos\BFS\obj\Debug\net6.0\ref\BFS.dll
